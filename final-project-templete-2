@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+  <title> The Rise of Food Insecurity in Central New York </title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="label">Data Journalism Project</div>
+    <h1 class="headline"> The Rise of Food Insecurity in Central New York</h1>
+    <p class="dek">Central New York food banks face a major increase in demand after cuts in SNAP benefit assistance.  </p>
+    <div class="byline">
+      By <span>Bella Cucci</span>
+       </div>
+      <span>May 4th, 2026</span>
+    </div>
+  </header>
+
+  <figure class="article-photo">
+  <img src="https://www.tulsalibrary.org/sites/default/files/inline-images/food%20pantry.jpg" alt="">
+  <figcaption>Photo used from: Tulsa Library</figcaption>
+</figure>
+
+  
+  <main class="content">
+
+  
+    <section class="narrative">
+      <h2 class="section-label"></h2>
+
+      <p>Syracuse, N.Y. — Food insecurity is on a major rise in Central New York, with local food pantries struggling with the recent SNAP cuts and constant demand for help.</p
+      >
+
+      <p>Data from Feeding America shows that three Central New York counties rank among the top 10 in New York State for child food insecurity. </p>
+
+      <figure class="dataviz">
+          <iframe title="CNY County Among Highest for Child Food Insecurity" aria-label="Stacked Bars" id="datawrapper-chart-wT1B5" src="https://datawrapper.dwcdn.net/wT1B5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="331" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+          
+        </iframe>
+        
+      </figure>
+      </div>
+       </div>
+
+
+
+
+      <p>The numbers shown are meant to highlight the constant growing need for food assistance across New York State. Oswego County ranks eighth, with about 1 in 5 children facing food insecurity, while Onondaga and Oneida counties also rank among the highest in the state.</p>
+
+      <p>Food pantry operator at St. Margaret's Food Pantry, Donna Skrocki, says, “The need for food has definitely increased by a substantial amount,” saying families cannot keep food in their houses without the help of the pantry.</p>
+
+      <figure class="article-photo">
+  <img src="https://npr.brightspotcdn.com/79/95/a5728686408f8b738471811ccca7/img-0050.jpeg" alt="Description of your image here">
+  <figcaption>Photo used from: WUWM 89.7 MILWAUKEE'S NPR /figcaption>
+</figure>
+
+      
+       <p>Skrocki shared that the demand of the pantry has almost doubled within the last year. What started at 60 household families has increased to 120 families, totaling around 500 people served. She also explained that St. Margaret's Food Pantry has had to join with a school across from the pantry, where they alone serve 40 families. The constant demand for food in Central New York is making it harder for pantries to keep shelves stocked. “I am ordering from the Food Bank at least once a month, where it used to be every two months,” Skrocki said.</p>
+
+           <figure class="dataviz">
+        <iframe
+          aria-label="<iframe title="New York Families Face Higher Food Insecurity" aria-label="Line chart" id="datawrapper-chart-TkaO5" src="https://datawrapper.dwcdn.net/TkaO5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="448" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script "
+          <figcaption> </figcaption>
+          </figure>
+      </div>
+       </div>
+
+      <p>The graph above shows Average Annual Percentage of Households Self-Reporting Food Insecurity from 2020 to 2024. The increase in demand is affecting the most vulnerable communities — unemployed people, those in low-income areas, and especially multi-family households.</p>
+
+
+      <p>With recent changes to the Supplemental Nutrition Assistance Program, the benefits have added additional strain. Skrocki says the major cuts to assistance programs, combined with layoffs and local business closures, are making it harder for families. “This is a low-income area with many seniors who cannot afford day-to-day food without help,” Skrocki said. “By cutting SNAP assistance, this only puts more stress and need on the people.”</p>
+<figure class="article-photo">
+  <img src="https://live.staticflickr.com/4050/4622011485_b09dfc4c95_b.jpg">
+  <figcaption>Photo used from: Flickr</figcaption>
+</figure>
+<div></div>
+
+      <p>Experts in the field say the changes at the federal level are a main contributor to the increase in demand.Colleen Heflin, a professor in the Public Administration and International Affairs program at Syracuse University, explained how recent policy changes could impact food access. “The SNAP program is undergoing a fundamental restructuring with HB#1, and food insecurity and the demand for charitable food is likely to increase over the next year,” Heflin said.</p>
+
+<figure class="dataviz">
+  <iframe
+    title="SNAP Recipients – Central New York (Top Food Insecurity Counties)"
+    aria-label="Table"
+    id="datawrapper-chart-wiVzE"
+    src="https://datawrapper.dwcdn.net/wiVzE/1/"
+    scrolling="no"
+    frameborder="0"
+    style="width: 0; min-width: 100% !important; border: none;"
+    height="326"
+    data-external="1">
+  </iframe>
+  <script type="text/javascript">
+    window.addEventListener("message", function(a) {
+      if (void 0 !== a.data["datawrapper-height"]) {
+        var e = document.querySelectorAll("iframe");
+        for (var t in a.data["datawrapper-height"])
+          for (var r, i = 0; r = e[i]; i++)
+            if (r.contentWindow === a.source) {
+              var d = a.data["datawrapper-height"][t] + "px";
+              r.style.height = d;
+            }
+      }
+    });
+  </script>
+  
+</figure>
+
+      <p>According to the U.S. Department of Agriculture, SNAP participation dropped by more than 3 million people nationwide after 2025 policy changes. The major decline puts major pressure on food pantries, as they see more families needing additional support. </p>
+ 
+
+</p>
+
+      <p>As demand on local food pantries is on a constant rise and larger businesses close, pantry operators say they are doing everything they can to keep up, but resources remain scarce. With the strain on SNAP benefits and more families in need, experts say the change in the system is only expected to get worse across Central New York.
+</p>
+    </section>
+<section>
+  <h2 class="section-label">Sources</h2>
+
+  <div>
+    <h3>Donna Skrocki</h3>
+    <ul>
+      <li><strong>Title / Organization:</strong> Food Pantry Operator – St. Margaret's Food Pantry</li>
+      <li><strong>Contact:</strong> <a href="mailto:dskrocki@syrdio.org">dskrocki@syrdio.org</a></li>
+      <li><strong>How you found them:</strong> Website</li>
+      <li><strong>How interview was conducted:</strong> Email</li>
+    </ul>
+  </div>
+    <div>
+    <h3>Colleen Heflin</h3>
+    <ul>
+      <li><strong>Title / Organization:</strong> Professor, Public Administration and International Affairs, Syracuse University</li>
+      <li><strong>Contact:</strong> <a href="mailto:cmheflin@syr.edu">cmheflin@syr.edu</a></li>
+      <li><strong>How you found them:</strong> Syracuse University Website</li>
+      <li><strong>How interview was conducted:</strong> Email</li>
+    </ul>
+  </div>
+  <h3 class="subsource-label">Data & Research Sources</h3>
+  <ul class="data-sources">
+    <li>Hungry kids in NY counties — <a href="https://www.syracuse.com/data/2025/05/one-central-ny-county-is-among-top-10-statewide-for-hungry-kids.html">Syracuse.com</a></li>
+    <li>New York State Comptroller — <a href="https://www.osc.ny.gov/reports/food-insecurity-persists-post-pandemic">osc.ny.gov</a></li>
+    <li>Supplemental Nutrition Assistance Program — <a href="https://otda.ny.gov/programs/snap/">otda.ny.gov</a></li>
+    <li>U.S. Department of Agriculture — <a href="https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program">fns.usda.gov</a></li>
+  </ul>
+
+</section>
+  </main>
+  <footer class="site-footer">
+    <p> JNL 221 &nbsp;|&nbsp; S.I. Newhouse School of Public Communications &nbsp;|&nbsp; 2026</p>
+  </footer>
+
+</body>
+</html>
